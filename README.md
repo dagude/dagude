@@ -1,7 +1,4 @@
-# dagude
-👋
-
-** David Agudelo Velasquez **
+# David Agudelo Velasquez
 
 ### :link: &nbsp; Connect with me
 
